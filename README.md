@@ -155,8 +155,6 @@ plt.show()
 
 ![alt text](image-2.png)
 
-
-
 ### Original vs Noisy Vs Reconstructed Image 
 
 ![alt text](image-3.png)
