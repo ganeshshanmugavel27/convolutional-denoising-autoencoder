@@ -161,7 +161,5 @@ plt.show()
 
 ![alt text](image-3.png)
 
-
-
 ## RESULT
 Thus, the convolutional autoencoder for image denoising application has been successfully developed.
